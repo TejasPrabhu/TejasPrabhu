@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">An experienced python developer trying to get into web development.</h3>
 
-# <p align="left"> <a href="https://twitter.com/tejasprabhu4" target="blank"><img src="https://img.shields.io/twitter/follow/tejasprabhu4?logo=twitter&style=for-the- 
-# badge" alt="tejasprabhu4" /></a> </p>
+<!---<p align="left"> <a href="https://twitter.com/tejasprabhu4" target="blank"><img src="https://img.shields.io/twitter/follow/tejasprabhu4?logo=twitter&style=for-the- 
+ badge" alt="tejasprabhu4" /></a> </p> -->
 
 - 🌱 I’m currently learning **React and FastApi**
 
