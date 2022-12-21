@@ -4,7 +4,7 @@
 <!---<p align="left"> <a href="https://twitter.com/tejasprabhu4" target="blank"><img src="https://img.shields.io/twitter/follow/tejasprabhu4?logo=twitter&style=for-the- 
  badge" alt="tejasprabhu4" /></a> </p> -->
 
-- 🌱 I’m currently learning **React and FastApi**
+- 🌱 I’m currently learning **React and Node.js** and am working on **Java** skills
 
 - 👯 I’m looking to collaborate on **open source projects**
 
