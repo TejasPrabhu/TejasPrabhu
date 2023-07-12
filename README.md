@@ -13,14 +13,16 @@
 <a href="https://linkedin.com/in/tprabhu2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tprabhu2911" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Technologies I work with:</h3>
+<h2 align="left">Technologies I work with:</h2>
 <!-- Your icons here -->
 
-<h2 align="left">Languages :</h2>
+<h3 align="left">Languages :</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasprabhu&show_icons=true&locale=en&layout=compact" alt="tejasprabhu" /></p>
 
-<h2 align="left">Tools and Frameworks :</h2>
+<hr>
+
+<h3 align="left">Tools and Frameworks :</h3>
 
 <p align="left">
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
