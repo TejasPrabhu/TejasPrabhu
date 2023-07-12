@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasprabhu&show_icons=true&locale=en&layout=compact" alt="tejasprabhu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasprabhu&show_icons=true&locale=en&layout=compact" alt="tejasprabhu" /></p><br>
 
 <hr>
 
