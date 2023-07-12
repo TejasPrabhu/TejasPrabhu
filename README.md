@@ -13,23 +13,19 @@
 <a href="https://linkedin.com/in/tprabhu2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tprabhu2911" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tejasprabhu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasprabhu4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tprabhu2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tprabhu2911" height="30" width="40" /></a>
-</p>
 
 <h2 align="left">Technologies I work with:</h2>
 
 <h3 align="left">Languages :</h3>
+<div>
 <p align="left">
 <!-- Your language icons here -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasprabhu&show_icons=true&locale=en&layout=compact" alt="tejasprabhu" /></p><br>
-
+</div>
 <hr>
-
+<div>
 <h3 align="left">Tools and Frameworks :</h3>
 <p align="left">
 <!-- Your tools and frameworks icons here -->
@@ -78,7 +74,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a> -->
 </p>
-
+</div>div>
 <!-- <h3 align="left">Languages :</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasprabhu&show_icons=true&locale=en&layout=compact" alt="tejasprabhu" /></p>
