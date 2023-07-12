@@ -13,18 +13,27 @@
 <a href="https://linkedin.com/in/tprabhu2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tprabhu2911" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tejasprabhu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasprabhu4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tprabhu2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tprabhu2911" height="30" width="40" /></a>
+</p>
+
 <h2 align="left">Technologies I work with:</h2>
-<!-- Your icons here -->
 
 <h3 align="left">Languages :</h3>
+<p align="left">
+<!-- Your language icons here -->
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasprabhu&show_icons=true&locale=en&layout=compact" alt="tejasprabhu" /></p><br>
 
 <hr>
 
 <h3 align="left">Tools and Frameworks :</h3>
-
 <p align="left">
+<!-- Your tools and frameworks icons here -->
+</p>
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </a>  -->
