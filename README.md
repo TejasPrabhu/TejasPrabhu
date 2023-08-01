@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tejas</h1>
-<h3 align="center">A skilled Python and Backend Developer with a passion for Cloud Engineering, Distributed Systems, and AI.</h3>
+<h3 align="center">A skilled Python and Full-stack Developer with a passion for Cloud Engineering, Distributed Systems, and AI.</h3>
 
 - 🔭 I’m presently focusing on **Cloud Computing technologies and Distributed Systems**.
 - 🤖 Additionally exploring **Artificial Intelligence and Machine Learning** for enhanced problem-solving.
