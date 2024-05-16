@@ -89,6 +89,8 @@ With 3+ years of professional work experience in software development, specializ
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/tprabhu2911/)
 [<img src="https://skillicons.dev/icons?i=gmail" />](mailto:tejas.prabhu29@gmail.com?subject=Hello%20Tejas,%20From%20Github)
 
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FTejasPrabhu%2FTejasPrabhu&labelColor=%2337d67a&countColor=%23555555)
+
 Let's leverage technology to create impactful solutions together.
 
 </div>
