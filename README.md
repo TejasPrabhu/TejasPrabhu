@@ -6,9 +6,6 @@ I build software for the enterprise storage industry — full-stack internal
 applications, LLM-powered developer tools, and the systems infrastructure that
 exercises storage clusters at scale.
 
-[LinkedIn](https://www.linkedin.com/in/tejasprabhu/) ·
-[Email](mailto:tejas.prabhu29@gmail.com)
-
 ---
 
 ## What I'm building
