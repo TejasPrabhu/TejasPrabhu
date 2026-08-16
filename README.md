@@ -1,70 +1,71 @@
-<div align="center">
-
 # Tejas Prabhu
 
-**Software Engineer @ NetApp** · Research Triangle Park, NC
+**Software Engineer** · Research Triangle Park, NC
 
-Distributed storage systems, async Python, and the internal tooling that keeps
-large systems debuggable.
+I build software for the enterprise storage industry — full-stack internal
+applications, LLM-powered developer tools, and the systems infrastructure that
+exercises storage clusters at scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasprabhu/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tejas.prabhu29@gmail.com)
-
-</div>
-
----
-
-### What I work on
-
-I build software for distributed storage systems — the kind where a node dies at
-3am and the interesting question is what the cluster does next.
-
-Day to day that means **asynchronous frameworks in Python** for simulating
-high-concurrency workloads across multi-cluster environments, **fault-injection
-and chaos tooling** that deliberately breaks things (node failures, control-plane
-outages, network partitions), and **internal engineering tools** — including
-LLM-assisted systems that analyse product logs to speed up debugging and
-root-cause analysis, plus full-stack internal platform services.
-
-Before NetApp I built ETL pipelines for large-scale geospatial climate data at
-the **North Carolina Institute for Climate Studies**, and spent three years on
-enterprise RAID storage automation at **Seagate**, where I also served as Scrum
-Master for a team distributed across Singapore, India, and the US.
-
-### Currently learning
-
-**Go** and deeper **Kubernetes** internals — mostly because I keep reading
-operators and wanting to write one properly rather than by pattern-matching.
-
-### Toolkit
-
-**Languages** · Python · Go · Java · C#
-
-**Backend & data** · asyncio · Flask · Spring · React · PostgreSQL · MySQL · MongoDB
-
-**Cloud & infra** · AWS · Azure · GCP · Docker · Kubernetes · Terraform · Ansible
-
-**DevOps** · Linux · Git · Jenkins · GitHub Actions · GitLab CI · Bash
-
-### Certifications
-
-- [AZ-400 — Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/7BA737D3B509EC24?sharingId=6798F8A49F094D70)
-- [AZ-204 — Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/2402802CB37F033E?sharingId=6798F8A49F094D70)
-- [AI-900 — Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/C008456E783B73CF?sharingId=6798F8A49F094D70)
-- [AZ-900 — Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/A88E06953F0F89AF?sharingId=6798F8A49F094D70)
-
-### Education
-
-**MS Computer Science** — North Carolina State University, 2024
-**BTech Electronics & Telecommunication** — Vishwakarma Institute of Technology, Pune, 2019
+[LinkedIn](https://www.linkedin.com/in/tejasprabhu/) ·
+[Email](mailto:tejas.prabhu29@gmail.com)
 
 ---
 
-<div align="center">
+## What I'm building
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=TejasPrabhu&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasPrabhu&layout=compact&hide_border=true&theme=transparent&hide_title=true" />
+- **Full-stack applications** with **FastAPI** and **Vue** — internal platform
+  services for engineering organisations, from API design through to the UI
+- **LLM-powered developer tooling** — retrieval pipelines and agents applied to
+  log analysis and root-cause work, turning unstructured system output into
+  something engineers can act on
+- **Distributed systems infrastructure in Python** — asynchronous frameworks that
+  drive high-concurrency workloads across multi-cluster storage environments, and
+  fault-injection systems that model node failures, control-plane outages, and
+  network partitions
 
-<sub>Open to collaborating on distributed systems and developer-tooling projects.</sub>
+## What I'm learning
 
-</div>
+- **Distributed storage internals** — I work against these systems daily and want
+  to understand how they're built, not only how they behave under stress
+- **Kubernetes, ArgoCD, GitOps** — moving from operating enterprise delivery
+  pipelines to designing and owning them
+- **Go** — for the systems and operator work that follows from the above
+- **JavaScript and the modern frontend**, properly — I write Vue day to day and
+  want the depth underneath it
+
+## Where I'm heading
+
+Software engineering at the intersection of **storage and cloud infrastructure**
+and **AI-powered developer tooling**. Depth in distributed systems over breadth
+across frameworks.
+
+Open to collaborating on infrastructure and developer tooling projects.
+
+---
+
+## Experience
+
+- **NetApp** — Software Engineer 3 · Sept 2024 – present · Research Triangle Park, NC
+- **North Carolina Institute for Climate Studies** — Temporary Research Associate · Aug 2024 – Sept 2024
+- **North Carolina Institute for Climate Studies** — Temporary Student Intern · Jul 2023 – May 2024
+- **Seagate Technology** — Software Engineer II · Jul 2019 – Jul 2022 · Pune, India
+
+## Education
+
+- **Master of Computer Science** — North Carolina State University · 2022 – 2024
+- **Bachelor of Technology (Electronics)** — Savitribai Phule Pune University · 2015 – 2019
+
+## Stack
+
+**Building with** · Python · asyncio · FastAPI · Vue · PostgreSQL · MongoDB · Docker · Git · Linux
+
+**Infrastructure & delivery** · Kubernetes · Terraform · Ansible · Jenkins · GitHub Actions
+
+**Learning** · Go · ArgoCD · GitOps · JavaScript
+
+## Certifications
+
+- [AZ-400 — DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/7BA737D3B509EC24?sharingId=6798F8A49F094D70)
+- [AZ-204 — Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/2402802CB37F033E?sharingId=6798F8A49F094D70)
+- [AI-900 — Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/C008456E783B73CF?sharingId=6798F8A49F094D70)
+- [AZ-900 — Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/A88E06953F0F89AF?sharingId=6798F8A49F094D70)
