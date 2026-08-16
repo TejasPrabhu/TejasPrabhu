@@ -1,97 +1,70 @@
-
 <div align="center">
 
-![Hi there, I'm Tejas!](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+# Tejas Prabhu
 
-<h1>Hi there, I'm Tejas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/></h1>
-<h3>Experienced Software Engineer & Cloud Enthusiast</h3>
+**Software Engineer @ NetApp** · Research Triangle Park, NC
 
-With 3+ years of professional work experience in software development, specializing in Python, and a keen interest in cloud engineering, I'm currently enhancing my cloud skills through hands-on AWS projects during my internship. Certified in Azure and on the path to GCP certification, I aim to bridge my robust backend development background with cutting-edge cloud and DevOps practices.  
+Distributed storage systems, async Python, and the internal tooling that keeps
+large systems debuggable.
 
-</div>  
-
-
-
-<div align="center">
-
-## 🍽️ Food for Thought
-
-![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
-
-
-</div>  
-
-
-
-<div align="center">
-
-## 💡 What Excites Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejasprabhu/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tejas.prabhu29@gmail.com)
 
 </div>
 
-- 🛠 Designing and building **secure, scalable backend systems**, including APIs and microservices, to drive innovation and robust performance in software solutions.  
-- 🌐 Adopting **DevOps methodologies** for enhanced efficiency and agility in software development and operations.  
-- ☁️ Managing and optimizing **cloud infrastructure** for scalability and reliability across major cloud platforms.  
+---
 
+### What I work on
 
-<div align="center">
+I build software for distributed storage systems — the kind where a node dies at
+3am and the interesting question is what the cluster does next.
 
-## 🌱 I'm Currently Learning
+Day to day that means **asynchronous frameworks in Python** for simulating
+high-concurrency workloads across multi-cluster environments, **fault-injection
+and chaos tooling** that deliberately breaks things (node failures, control-plane
+outages, network partitions), and **internal engineering tools** — including
+LLM-assisted systems that analyse product logs to speed up debugging and
+root-cause analysis, plus full-stack internal platform services.
 
-</div>
+Before NetApp I built ETL pipelines for large-scale geospatial climate data at
+the **North Carolina Institute for Climate Studies**, and spent three years on
+enterprise RAID storage automation at **Seagate**, where I also served as Scrum
+Master for a team distributed across Singapore, India, and the US.
 
-- 🚀 Expanding my knowledge in **Golang** and **advanced Kubernetes** to strengthen my cloud-native development and orchestration skills.  
+### Currently learning
 
+**Go** and deeper **Kubernetes** internals — mostly because I keep reading
+operators and wanting to write one properly rather than by pattern-matching.
 
-<div align="center">
+### Toolkit
 
-## 🔧 Professional Toolkit
-**Programming Languages and Frameworks:**  
-<img src="https://skillicons.dev/icons?i=python,java,cs,go" />  
-<img src="https://skillicons.dev/icons?i=flask,spring,react,mongodb,postgres,mysql" />
+**Languages** · Python · Go · Java · C#
 
-**Cloud Technologies & Containerization:**  
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,azure" />
+**Backend & data** · asyncio · Flask · Spring · React · PostgreSQL · MySQL · MongoDB
 
-**DevOps & Tools:**  
-<img src="https://skillicons.dev/icons?i=linux,git,bash,jenkins,githubactions,gitlab" />  
+**Cloud & infra** · AWS · Azure · GCP · Docker · Kubernetes · Terraform · Ansible
 
-</div>
+**DevOps** · Linux · Git · Jenkins · GitHub Actions · GitLab CI · Bash
 
+### Certifications
 
-<div align="center">
+- [AZ-400 — Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/7BA737D3B509EC24?sharingId=6798F8A49F094D70)
+- [AZ-204 — Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/2402802CB37F033E?sharingId=6798F8A49F094D70)
+- [AI-900 — Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/C008456E783B73CF?sharingId=6798F8A49F094D70)
+- [AZ-900 — Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/A88E06953F0F89AF?sharingId=6798F8A49F094D70)
 
-## 🔭 Looking Forward
+### Education
 
-</div>
+**MS Computer Science** — North Carolina State University, 2024
+**BTech Electronics & Telecommunication** — Vishwakarma Institute of Technology, Pune, 2019
 
-- 🔍 Seeking opportunities in **backend engineering, DevOps, and cloud engineering** to apply my skills in a dynamic environment.  
-- 🤝 Open to collaboration on projects that push the envelope in cloud computing and distributed systems.  
-
-
-<div align="center">
-
-## 📜 Certifications
-
-</div>
-
-- [AZ-204: Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/2402802CB37F033E?sharingId=6798F8A49F094D70)
-- [AZ-400: Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/7BA737D3B509EC24?sharingId=6798F8A49F094D70)
-- [AI-900: Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/C008456E783B73CF?sharingId=6798F8A49F094D70)
-- [AZ-900: Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/A88E06953F0F89AF?sharingId=6798F8A49F094D70)  
-
-
+---
 
 <div align="center">
 
-### 🤝 Connect With Me
-[<img src="https://skillicons.dev/icons?i=twitter" />](https://twitter.com/tejasprabhu4)
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/tprabhu2911/)
-[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:tejas.prabhu29@gmail.com?subject=Hello%20Tejas,%20From%20Github)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=TejasPrabhu&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasPrabhu&layout=compact&hide_border=true&theme=transparent&hide_title=true" />
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FTejasPrabhu%2FTejasPrabhu&labelColor=%2337d67a&countColor=%23555555)
-
-Let's leverage technology to create impactful solutions together.
+<sub>Open to collaborating on distributed systems and developer-tooling projects.</sub>
 
 </div>
-
