@@ -10,49 +10,30 @@ I work best where requirements shift and shipping something usable this week mat
 
 ---
 
+## What I'm building
+
+- **Full-stack applications with FastAPI and Vue** — Internal platform services for engineering organisations, from API design through to the UI.
+- **LLM-powered developer tooling** — Retrieval pipelines and agents applied to log analysis and root-cause work, turning unstructured system output into something engineers can act on.
+- **Distributed systems infrastructure in Python** — Asynchronous frameworks that drive high-concurrency workloads across multi-cluster storage environments, and fault-injection systems that model node failures, control-plane outages and network partitions.
+
 ## Currently going deeper on
 
 - **Distributed storage internals** — I work against these systems daily and want to understand how they are built, not only how they behave under stress.
 - **Kubernetes, ArgoCD and GitOps** — Moving from operating enterprise delivery pipelines to designing and owning them.
 - **Go** — For the systems and operator work that follows from the above.
 
+## Where I'm heading
+
+Software engineering at the intersection of storage and cloud infrastructure and AI-powered developer tooling. Depth in distributed systems over breadth across frameworks. Open to collaborating on infrastructure and developer tooling projects.
+
 ## Experience
 
-### [NetApp](https://www.netapp.com) · Research Triangle Park, NC
-
-**Software Engineer 3** · Sep 2024 – Present
-
-- **Full-stack platform tooling** — Build internal applications with FastAPI and Vue — API design through to UI — used by engineering teams for platform operations and reporting.
-- **LLM developer tooling** — Build retrieval pipelines and agents that turn unstructured system output into usable signal for debugging and root-cause work.
-- **Asynchronous Python at scale** — Architect async frameworks that drive high-concurrency workloads across distributed multi-cluster storage environments.
-- **Fault injection** — Design systems that model node failures, control-plane outages, network partitions and storage-layer faults — deliberately breaking clusters to find what real failures would.
-- **Distributed systems debugging** — Work across the control and data plane at system level, surfacing race conditions, consistency issues and performance bottlenecks.
-
-### [North Carolina Institute for Climate Studies](https://ncics.org) · Asheville, NC
-
-**Cloud Engineer** · Aug 2024 – Sep 2024
-
-- **Pipeline orchestration** — Automated pipeline provisioning and orchestration with Infrastructure as Code and an event-driven architecture, removing the manual steps from the workflow.
-
-**Cloud Engineer Intern** · Jun 2023 – May 2024
-
-- **Geospatial ETL on AWS** — Built an ETL pipeline to transform and load multi-dimensional climate data, extending what the group could process.
-- **60% faster processing** — Cut data processing time by 60% through revised processing techniques and scalable managed cloud services.
-- **Infrastructure as Code** — Automated and streamlined data workflows with IaC, integrating the AWS services the pipeline depended on.
-
-### [Seagate Technology](https://www.seagate.com) · Pune, India
-
-**Software Engineer II** · Jul 2019 – Jul 2022
-
-- **Validation frameworks** — Led development of the automated testing frameworks used to validate enterprise storage platforms — the infrastructure other engineers depended on to ship firmware safely.
-- **37% faster test cycles** — Cut test execution time by 37% by automating over 60% of the suite and rebuilding the CI pipeline on Jenkins, reducing bug escapes to the production branch.
-- **Failure-mode design** — Designed validation strategies for storage arrays around failure scenarios, recovery paths and behaviour under sustained load.
-- **Team leadership** — Led an 8-person engineering team across India, Singapore and the US, owning delivery planning, onboarding and mentorship on the automation frameworks.
-
-**Software Engineer Intern** · Jan 2019 – Jul 2019
-
-- **Cross-platform automation** — Developed automation scripts for test-tool installation across Windows and Linux servers.
-- **RAID product validation** — Executed 40% of the test cases for the Vikings RAID product line.
+- [NetApp](https://www.netapp.com) · Research Triangle Park, NC  
+  **Software Engineer 3** · Sep 2024 – Present
+- [North Carolina Institute for Climate Studies](https://ncics.org) · Asheville, NC  
+  **Cloud Engineer** · Aug 2024 – Sep 2024, **Cloud Engineer Intern** · Jun 2023 – May 2024
+- [Seagate Technology](https://www.seagate.com) · Pune, India  
+  **Software Engineer II** · Jul 2019 – Jul 2022, **Software Engineer Intern** · Jan 2019 – Jul 2019
 
 ## Projects
 
@@ -88,9 +69,6 @@ I work best where requirements shift and shipping something usable this week mat
 - [AI-900 — Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/C008456E783B73CF?sharingId=6798F8A49F094D70)
 - [AZ-900 — Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/TejasPrabhu-6216/A88E06953F0F89AF?sharingId=6798F8A49F094D70)
 
-## Publications
-
-- Carbon nanotube based gas sensor — Undergraduate research, Electronics Engineering
 
 ## Elsewhere
 
